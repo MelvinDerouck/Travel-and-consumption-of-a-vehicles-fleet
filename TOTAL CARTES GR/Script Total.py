@@ -83,8 +83,6 @@ colonnes_int = ["Km-Juil.", "Km-Aout", "Km-Sept.", "Km-total",
 
 df_filt[colonnes_int] = df_filt[colonnes_int].astype(float)
 
-# %%
-df_filt.info()
 
 # %%
 df_filt.rename(columns={'N° de carte': 'Carte GR'}, inplace=True)
