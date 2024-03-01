@@ -28,7 +28,8 @@ Filtering to obtain technician data.
 
 Technician Assignment:
 Data fusion to create a main dataframe.
-Merge of Files
+
+## Merge of Files
 External join between the assignment and consumption tracking files.
 
 ## Dashboard Creation
