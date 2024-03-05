@@ -1,7 +1,7 @@
 # Travel-and-consumption-of-a-vehicles-fleet
 Analysis of travels and consumption of a vehicles fleet for a private company
 
-![Texte alternatif](pic/sheet_5_censored.jpg)
+![Texte alternatif](https://github.com/MelvinDerouck/Travel-and-consumption-of-a-vehicles-fleet/blob/main/pic/sheet%205_censored.jpg)
 
 ## Context
 The project was conducted for Vinci Facilities, a subsidiary of Vinci Energies responsible for maintaining urban infrastructures. Planned interventions required daily travel by technicians. The project anticipated new regulations on low-emission zones scheduled for 2025, imposing restrictions on polluting vehicles.
