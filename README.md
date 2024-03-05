@@ -43,23 +43,35 @@ Exploration of the dashboard on Power BI.
 Home:
 User manual for the dashboard.
 
+![Texte alternatif](https://github.com/MelvinDerouck/Travel-and-consumption-of-a-vehicles-fleet/blob/main/pic/sheet%201.jpg)
+
 Global Indicators:
 Gauges for kilometers, liters consumed, and L/100km.
 Visualization of individual averages.
+
+![Texte alternatif](https://github.com/MelvinDerouck/Travel-and-consumption-of-a-vehicles-fleet/blob/main/pic/sheet%202_censored.jpg)
 
 Tracker Analysis (km):
 Stacked barchart for categories of trips.
 Details on the number of trips and kilometer intervals.
 
+![Texte alternatif](https://github.com/MelvinDerouck/Travel-and-consumption-of-a-vehicles-fleet/blob/main/pic/sheet%203_censored.jpg)
+
 Consumption Analysis (Liters + L/100km):
 Grouped barchart for the distribution of L/100km values per month.
 Average curve in red.
 
+![Texte alternatif](https://github.com/MelvinDerouck/Travel-and-consumption-of-a-vehicles-fleet/blob/main/pic/sheet%204_censored.jpg)
+
 Indicators per Technician:
 Individual selection with a geographical map of routes.
 
+![Texte alternatif](https://github.com/MelvinDerouck/Travel-and-consumption-of-a-vehicles-fleet/blob/main/pic/sheet%205_censored.jpg)
+
 Indicators per Vehicles:
 Comparison of habits for each type of vehicle.
+
+![Texte alternatif](https://github.com/MelvinDerouck/Travel-and-consumption-of-a-vehicles-fleet/blob/main/pic/sheet%206_censored.jpg)
 
 ## Conclusion
 The dashboard met expectations by clearly identifying differences in travel habits. It allowed the definition of a list of technicians prioritized for the allocation of electric vehicles. Positive user feedback opens up prospects for other projects aimed at optimizing intervention management and technician schedules.
