@@ -39,7 +39,7 @@ Development of a blueprint to define the structure.
 Creation of a mock-up on Canva.
 Exploration of the dashboard on Power BI.
 
-![Texte alternatif](https://github.com/MelvinDerouck/Travel-and-consumption-of-a-vehicles-fleet/blob/main/pic/Mock_up.png)
+![Texte alternatif](https://github.com/MelvinDerouck/Travel-and-consumption-of-a-vehicles-fleet/blob/main/pic/Mock-up.png)
 
 ## Dashboard Sections
 Home:
