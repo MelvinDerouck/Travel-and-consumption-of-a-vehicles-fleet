@@ -39,13 +39,13 @@ Development of a blueprint to define the structure.
 Creation of a mock-up on Canva.
 Exploration of the dashboard on Power BI.
 
-![Texte alternatif](https://github.com/MelvinDerouck/Travel-and-consumption-of-a-vehicles-fleet/blob/main/pic/mock_up.jpg)
+![Texte alternatif](https://github.com/MelvinDerouck/Travel-and-consumption-of-a-vehicles-fleet/blob/main/pic/Mock_up.png)
 
 ## Dashboard Sections
 Home:
 User manual for the dashboard.
 
-![Texte alternatif](https://github.com/MelvinDerouck/Travel-and-consumption-of-a-vehicles-fleet/blob/main/pic/sheet_1.jpg)
+![Texte alternatif](https://github.com/MelvinDerouck/Travel-and-consumption-of-a-vehicles-fleet/blob/main/pic/sheet%201.png)
 
 Global Indicators:
 Gauges for kilometers, liters consumed, and L/100km.
