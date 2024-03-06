@@ -41,7 +41,9 @@ Data fusion to create a main dataframe.
 
 ## Dashboard Creation
 Development of a blueprint to define the structure of the futur dashboard.
+
 Creation of a mock-up, wich is a static visual representation of a user interface.
+
 Exploration of the dashboard on Power BI.
 
 ![Texte alternatif](https://github.com/MelvinDerouck/Travel-and-consumption-of-a-vehicles-fleet/blob/main/Mock-up.png)
@@ -54,18 +56,21 @@ User manual for the dashboard.
 
 Global Indicators:
 Gauges for kilometers, liters consumed, and L/100km.
+
 Visualization of individual averages.
 
 ![Texte alternatif](https://github.com/MelvinDerouck/Travel-and-consumption-of-a-vehicles-fleet/blob/main/pic/sheet%202_censored.jpg)
 
 Tracker Analysis (km):
 Stacked barchart for categories of trips.
+
 Details on the number of trips and kilometer intervals.
 
 ![Texte alternatif](https://github.com/MelvinDerouck/Travel-and-consumption-of-a-vehicles-fleet/blob/main/pic/sheet%203_censored.jpg)
 
 Consumption Analysis (Liters + L/100km):
 Grouped barchart for the distribution of L/100km values per month.
+
 Average curve in red.
 
 ![Texte alternatif](https://github.com/MelvinDerouck/Travel-and-consumption-of-a-vehicles-fleet/blob/main/pic/sheet%204_censored.jpg)
