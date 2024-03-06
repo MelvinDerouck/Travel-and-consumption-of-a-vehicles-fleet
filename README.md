@@ -8,35 +8,40 @@ The project was conducted for Vinci Facilities, a subsidiary of Vinci Energies r
 
 ## Objectives
 Identify the travel and consumption habits of technicians.
+
 Anticipate the electrification of the vehicle fleet before the 2025 restrictions.
+
 Gradually transition to 100% electric by 2025 by assigning electric cars based on driving habits.
 
 ## Methodology
 GPS tracking campaign for 8 technicians over 3 months (July to September 2023).
+
 Fuel consumption monitoring via the Total platform.
-Merge of GPS tracker, consumption, and technician assignment data.
-Creation of a Power BI dashboard to analyze habits.
-Data Preparation
+
 Use of Python scripts to restructure GPS tracker data, clean consumption data, and merge data.
 
+Merge of GPS tracker, consumption, and technician assignment data.
+
+Creation of a Power BI dashboard to analyze habits.
+
 ## Data Processing and Cleaning
-GPS Tracker (Invoxia):
+Distance metrics (Invoxia export), distance metrics :
 Aggregation of data per day and per tracker.
+
 Adjustment of kilometers with a coefficient based on user data.
 
-Consumption (Total):
+Consumption metrics (Total plateform):
 Restructuring and cleaning of data.
+
 Filtering to obtain technician data.
 
 Technician Assignment:
 Data fusion to create a main dataframe.
 
-## Merge of Files
-External join between the assignment and consumption tracking files.
 
 ## Dashboard Creation
-Development of a blueprint to define the structure.
-Creation of a mock-up on Canva.
+Development of a blueprint to define the structure of the futur dashboard.
+Creation of a mock-up, wich is a static visual representation of a user interface.
 Exploration of the dashboard on Power BI.
 
 ![Texte alternatif](https://github.com/MelvinDerouck/Travel-and-consumption-of-a-vehicles-fleet/blob/main/Mock-up.png)
