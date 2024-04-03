@@ -25,7 +25,7 @@ Merge of GPS tracker, consumption, and technician assignment data.
 Creation of a Power BI dashboard to analyze habits.
 
 ## Data Processing and Cleaning
-Distance metrics (Invoxia export), distance metrics :
+Distance metrics (Invoxia export) :
 Aggregation of data per day and per tracker.
 
 Adjustment of kilometers with a coefficient based on user data.
